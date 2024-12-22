@@ -1,1 +1,5 @@
-/target
+target/
+debut/
+cargo.lock
+**/*.rs.bk
+*.pdb
