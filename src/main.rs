@@ -1,6 +1,8 @@
-use std::io;
-use std::cmp::Ordering;
+// use std::io;
+// use std::cmp::Ordering;
 use rand::Rng;
+//we can use the nested path to clean large use lists like this ..
+use std::{io, cmp::Ordering};
 
 fn main() {
     println!("Guess the number");
